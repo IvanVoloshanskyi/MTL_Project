@@ -1,4 +1,4 @@
 # MTL_Project
-MTL Support bot
+MTL image recognition
 
-Aiogram |
+Tensorflow | OpenCV
